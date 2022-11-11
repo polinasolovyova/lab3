@@ -1,0 +1,53 @@
+button {
+    background-color: rgb(131, 45, 158);
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(89, 32, 107);
+}
+
+#rowNumber {
+    height: 35px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#first {
+    margin: 10px;
+}
+
+#second {
+    margin: 50px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+    margin: 10px;
+}
+
+tr {
+    text-align: center;
+
+    border: 1px solid black;
+    border-radius: 3px;
+
+    padding: 5px;
+}
+
+td
+{
+    text-align: center;
+
+    border: 1px solid black;
+    border-radius: 3px;
+
+    padding: 5px;
+}
